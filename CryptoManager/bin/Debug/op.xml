@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Record>
+    <name>Bitcoin</name>
+    <price_usd>1</price_usd>
+    <symbol>BTC</symbol>
+    <Creation>2018-01-29T20:44:11.2211935+01:00</Creation>
+    <Close>2018-02-01T12:54:15.0931253+01:00</Close>
+    <OpenPrice>11339.5</OpenPrice>
+    <ClosePrice>9674.61</ClosePrice>
+    <Profit>-0.14682217028969524</Profit>
+    <IsClosed>true</IsClosed>
+  </Record>
+  <Record>
+    <name>Monero</name>
+    <price_usd>251,863</price_usd>
+    <symbol>XMR</symbol>
+    <Creation>2018-02-01T13:46:54.5200365+01:00</Creation>
+    <Close>0001-01-01T00:00:00</Close>
+    <OpenPrice>251.863</OpenPrice>
+    <ClosePrice xsi:nil="true" />
+    <Profit xsi:nil="true" />
+    <IsClosed>false</IsClosed>
+  </Record>
+  <Record>
+    <name>Bitcoin</name>
+    <price_usd>9319,57</price_usd>
+    <symbol>BTC</symbol>
+    <Creation>2018-02-01T15:06:42.7543049+01:00</Creation>
+    <Close>2018-02-01T19:14:16.2062052+01:00</Close>
+    <OpenPrice>9319.57</OpenPrice>
+    <ClosePrice>9114.49</ClosePrice>
+    <Profit>-205.07999999999993</Profit>
+    <IsClosed>true</IsClosed>
+  </Record>
+  <Record>
+    <name>Bitcoin</name>
+    <price_usd>222910,347583</price_usd>
+    <symbol>BTC</symbol>
+    <Creation>2018-02-01T19:16:32.366065+01:00</Creation>
+    <Close>2018-02-01T19:17:12.1176031+01:00</Close>
+    <OpenPrice>9114.49</OpenPrice>
+    <ClosePrice>9128.66</ClosePrice>
+    <Profit>346.55143900000257</Profit>
+    <IsClosed>true</IsClosed>
+  </Record>
+  <Record>
+    <name>Tether</name>
+    <price_usd>7,9038743060</price_usd>
+    <symbol>USDT</symbol>
+    <Creation>2018-02-02T04:09:30.2111027+01:00</Creation>
+    <Close>2018-02-09T18:58:55.7333929+01:00</Close>
+    <OpenPrice>0.7903874306</OpenPrice>
+    <ClosePrice>1.04667</ClosePrice>
+    <Profit>2.562825693999998</Profit>
+    <IsClosed>true</IsClosed>
+  </Record>
+  <Record>
+    <name>Populous</name>
+    <price_usd>100</price_usd>
+    <symbol>PPT</symbol>
+    <Creation>2018-02-09T18:57:36.9166268+01:00</Creation>
+    <Close>2018-02-10T18:30:42.6557084+01:00</Close>
+    <OpenPrice>36.4589</OpenPrice>
+    <ClosePrice>26.0641</ClosePrice>
+    <Profit>-28.511008286042639</Profit>
+    <IsClosed>true</IsClosed>
+  </Record>
+  <Record>
+    <name>Ethereum</name>
+    <price_usd>1000</price_usd>
+    <symbol>ETH</symbol>
+    <Creation>2018-02-10T18:29:24.6056256+01:00</Creation>
+    <Close>0001-01-01T00:00:00</Close>
+    <OpenPrice>853.361</OpenPrice>
+    <ClosePrice xsi:nil="true" />
+    <Profit xsi:nil="true" />
+    <IsClosed>false</IsClosed>
+  </Record>
+  <Record>
+    <name>Bitcoin</name>
+    <price_usd>50993,52</price_usd>
+    <symbol>BTC</symbol>
+    <Creation>2018-02-10T18:29:51.1083104+01:00</Creation>
+    <Close>0001-01-01T00:00:00</Close>
+    <OpenPrice>8498.92</OpenPrice>
+    <ClosePrice xsi:nil="true" />
+    <Profit xsi:nil="true" />
+    <IsClosed>false</IsClosed>
+  </Record>
+</ArrayOfRecord>
